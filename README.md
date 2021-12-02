@@ -2,66 +2,44 @@
 
 :fire: This is a workshop for learning how to build React Application
 
-******* PLEASE STAR MY REPO TO SUPPORT MY WORK 🙏 ******
+**\*\*\*** PLEASE STAR MY REPO TO SUPPORT MY WORK 🙏 **\*\***
 
 Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and [github](https://github.com/imranhsayed) to stay updated with new content
 
 ## :video_camera: [App Demo](https://github.com/imranhsayed/react-workshop/tree/03-react-app-example2)
+
 ![](Handling-forms.gif)
 
 ## :video_camera: React Developer Tools (Chrome Extension) Demo
+
 ![](React-Chrome-Extension.gif)
 
 ## :video_camera: [Live Search Demo](https://github.com/imranhsayed/react-workshop/tree/live-search-react)
+
 ![](live-search-demo.gif)
 
 ## :video_camera: [Mmenu Navigation]()
+
 ![](mmenu.gif)
 
 ## Before you Start
+
 I've branched the repo for individual topics.
 
 To see all branches run: `git branch --all`.
 
 To checkout to individual branch run: `git checkout <branch name>`. Then check its README.md .
- From there on you should be good.
+From there on you should be good.
 
+## Branch Name: 04-react-netflix-example
 
-## Branch Info
+## Branch Description:
 
-### Day 1:
-1. :snowflake: [01-add-react-in-a-min](https://github.com/imranhsayed/react-workshop/tree/01-add-react-in-a-min) : Create a react app in a minute :clock1: using React Scripts
-2. :rocket: [01-create-react-app](https://github.com/imranhsayed/react-workshop/tree/01-create-react-app) : Create a React application using create-react-app
-3. :package: [01-react-app-parcel](https://github.com/imranhsayed/react-workshop/tree/01-react-app-parcel) : Create a React application using parcel
-4. :gift: [01-react-app-webpack](https://github.com/imranhsayed/react-workshop/tree/01-react-app-webpack) :  Set up React application with using Webpack and Babel
+React Netflix example
 
-### Day 2:
-5. :tanabata_tree: [02-component-types](https://github.com/imranhsayed/react-workshop/tree/02-component-types) : Types of Components : Class & Functional Components
-6. :dizzy: [02-jsx-examples](https://github.com/imranhsayed/react-workshop/tree/02-jsx-examples) : Examples of JSX
-7. :snowman: [02-state-and-props](https://github.com/imranhsayed/react-workshop/tree/02-state-and-props) : Examples for Component State and Props
-8. :ear_of_rice: [02-hierarchical-components](https://github.com/imranhsayed/react-workshop/tree/02-hierarchical-components) Demo for Parent & Child Component, with state and props.
-9. :crossed_flags: [02-handling-routes](https://github.com/imranhsayed/react-workshop/tree/02-handling-routes) Handling routes using @reach/router
-10. :ear_of_rice: [02-get-derived-state-from-props](https://github.com/imranhsayed/react-workshop/tree/02-get-derived-state-from-props) Example for Component Lifecycle method: getDerivedStateFromProps, constructor, forceUpdate
+## Branch Description:
 
-11. :clipboard: [02-handling-forms](https://github.com/imranhsayed/react-workshop/tree/02-handle-forms) Handling forms in react
-
-### Day 3:
-12. :package: [03-react-application-example](https://github.com/imranhsayed/react-workshop/tree/03-react-application-example) Example for creating React Application with Header Footer Navbar, Display Posts by fetching data from 
-13. :snowman: [03-react-app-example2](https://github.com/imranhsayed/react-workshop/tree/03-react-app-example2) Example for Adding New posts using when the form is submitted.                                                                                                                        and api and Handling forms
-14. :dizzy: [03-active-links](https://github.com/imranhsayed/react-workshop/tree/03-active-links) Example for [Active links](https://reach.tech/router/example/active-links) using Reach router.
-                                                                                                                              
-15. :evergreen_tree: [03-higher-order-component](https://github.com/imranhsayed/react-workshop/tree/03-higher-order-component) Higher Order Component Example 
-16. :sweat_drops: [03-pure-component](https://github.com/imranhsayed/react-workshop/tree/03-pure-components) Pure Components Example
-17. :memo: [03-react-memo](https://github.com/imranhsayed/react-workshop/tree/03-react-memo) React memo example
-18. :arrow_right: [03-refs](https://github.com/imranhsayed/react-workshop/tree/03-refs) React's Refs example
-19. :palm_tree: [03-context](https://github.com/imranhsayed/react-workshop/tree/03-context) React Context example
-
-### React Hooks
-20. :arrow_right: [react-hooks](https://github.com/imranhsayed/react-hooks) React Hooks
-
-### Miscellaneous:
-21. :mag_right: [live-search-react](https://github.com/imranhsayed/react-workshop/tree/live-search-react) Realtime search on typing using react and axios. Includes pagination( Onchange Input ).
-22. :iphone: [mmenu-react-app](https://github.com/imranhsayed/react-workshop/tree/mmenu-react-app) Mobile menu Sidebar using Burger Menu
+Create a `.env` taking example from `.env-example` and Put your api key by getting it from 'https://developers.themoviedb.org/3'
 
 ## Installation
 
@@ -70,7 +48,15 @@ To checkout to individual branch run: `git checkout <branch name>`. Then check i
 3. `git checkout branch-name`
 4. `npm install`
 
+<<<<<<< HEAD
 You can see the branches and their details listed above.
+======= 2. `cd react-workshop`
+
+3. Run `npm install`
+
+[Blog Link](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
+
+> > > > > > > 04-react-netflix-example
 
 ## Instructions
 
@@ -78,14 +64,18 @@ Please follow the README for individual repositories
 
 ## Common Commands
 
+<<<<<<< HEAD
+
 - `dev` Runs webpack dev server for development ( in watch mode )
 - `prod` Runs webpack in production mode
 
 ## Workshop Gallery :sunrise_over_mountains:
+
 1. [Pictures](https://twitter.com/imranhsayed/status/1125435733106237441)
 2. [MeetUp](https://www.meetup.com/PuneJS/events/260908693/)
 
 ## Tutorial Videos :movie_camera:
+
 1. [React Tutorial Series](https://youtu.be/M-Aw4p0pWwg)
 2. [React Hooks Series](https://youtu.be/2p0N29Hn-Vk)
 
@@ -112,6 +102,12 @@ return(
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+# [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- `dev` Runs webpack dev server for development ( in watch mode ) at http://localhost:8080/
+- `prod` Runs webpack build
+- `serve` Runs production server at 'http://localhost:5000/'
+
+  > > > > > > > 04-react-netflix-example
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
