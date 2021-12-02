@@ -1,5 +1,6 @@
 import { clientsClaim } from 'workbox-core';
 import { precacheAndRoute } from 'workbox-precaching';
+import * as googleAnalytics from 'workbox-google-analytics';
 import { registerRoute } from 'workbox-routing';
 import {
   StaleWhileRevalidate,
@@ -14,6 +15,9 @@ self.skipWaiting();
 
 // _____Precaching main files:
 precacheAndRoute(self.__WB_MANIFEST);
+
+// Google Analytics offline:
+googleAnalytics.initialize();
 
 // _____Google fonts:
 registerRoute(
